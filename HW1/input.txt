@@ -1,0 +1,5 @@
+ls
+grep "pattern" file.txt
+pattern1
+pattern2
+patrn
